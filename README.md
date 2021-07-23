@@ -1,2 +1,2 @@
 # TheShepards
-Dette er en server.
+Dette skal bli en server.
